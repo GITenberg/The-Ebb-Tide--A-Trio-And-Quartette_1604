@@ -1,0 +1,45 @@
+_repo: The-Ebb-Tide--A-Trio-And-Quartette_1604
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+  - agent_name: Osbourne, Lloyd
+    aliases:
+    - Osbourne, Samuel Lloyd
+    - Osborne, Lloyd
+    birthdate: 1868
+    deathdate: 1947
+    gutenberg_agent_id: '512'
+    url: http://www.gutenberg.org/2009/agents/512
+    wikipedia: http://en.wikipedia.org/wiki/Lloyd_Osbourne
+description: "The Ebb-Tide. A Trio and a Quartette (1894) is a short novel written\
+  \ by Robert Louis Stevenson and his stepson Lloyd Osbourne. It was published the\
+  \ year Stevenson died.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1999-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1604'
+  wikidata: Q4674957
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea stories'
+- !lcsh 'Oceania -- Fiction'
+- !lcsh 'Schooners -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+- GITenberg
+title: 'The Ebb-Tide: A Trio And Quartette'
+url: http://www.gutenberg.org/ebooks/1604
+wikipedia:
+- https://en.wikisource.org/wiki/The_Ebb-Tide
+- https://en.wikipedia.org/wiki/The_Ebb-Tide
+- https://it.wikipedia.org/wiki/Il_riflusso_della_marea
