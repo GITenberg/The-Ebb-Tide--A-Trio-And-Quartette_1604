@@ -1,5 +1,8 @@
 _repo: The-Ebb-Tide--A-Trio-And-Quartette_1604
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Stevenson, Robert Louis
@@ -21,6 +24,8 @@ creator:
 description: "The Ebb-Tide. A Trio and a Quartette (1894) is a short novel written\
   \ by Robert Louis Stevenson and his stepson Lloyd Osbourne. It was published the\
   \ year Stevenson died.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1604#The-Ebb-Tide--A-Trio-And-Quartette
 gutenberg_issued: '1999-01-01'
 gutenberg_type: Text
 identifiers:
